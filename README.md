@@ -1,0 +1,2 @@
+# RESPONSIVE-FILTERABLE-IMAGE-GALLERY
+RESPONSIVE FILTERABLE IMAGE GALLERY using HTMl, CSS, JAVASCRIPT. You can change the code as per your requirements.
